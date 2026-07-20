@@ -46,4 +46,4 @@ LIMIT 10;
 4. Run scripts 02–05 in order
 
 ## Author
-Rinki Arora
+Rinky Arora
